@@ -5,3 +5,5 @@ window.onload = function() {
 	}
 	document.getElementById("boundary1").addEventListener("mouseover",hitWall);
 }
+
+
